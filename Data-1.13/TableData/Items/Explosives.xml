@@ -1981,7 +1981,7 @@
 		<ubHorizontalDegree>0</ubHorizontalDegree>
 		<ubVerticalDegree>0</ubVerticalDegree>
 	</EXPLOSIVE>
-	<EXPLOSIVE><!-- roof collapse-->		<!-- Pr0ph3t: <ubType>12 is FIRE RETARDANT, Setting to <ubType>11 for DEBRIS SMOKE, Jan 15 2023 -->
+	<EXPLOSIVE><!-- roof collapse-->
 		<uiIndex>99</uiIndex>
 		<ubType>11</ubType>
 		<ubDamage>0</ubDamage>
