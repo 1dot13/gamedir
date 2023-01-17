@@ -88,7 +88,7 @@
 	</Filter>
 	<Filter name="Longsleeves">
 		<AND>
-			<VESTPOS op="in">283, 295, 818, 821, 830, 833, 840, 856, 857, 858, 859, 860, 865, 866, 867, 868, 869</VESTPOS>
+			<VESTPOS op="in">283, 295, 821, 833, 840, 856, 857, 858, 859, 860, 865, 866, 867, 868, 869</VESTPOS>
 		</AND>
 	</Filter>
 	<Filter name="LongsleevesANDHasPistolOrMPistolInLeftHand">
@@ -557,17 +557,17 @@
 	</Filter>
 		<Filter name="EODvest">
 		<OR>
-			<VESTPOS op="in">806</VESTPOS>
+			<VESTPOS op="in">806, 818, 830</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="EODpants">
 		<AND>
-			<LEGPOS op="in">805</LEGPOS>
+			<LEGPOS op="in">805, 817, 829</LEGPOS>
 		</AND>
 	</Filter>
 	<Filter name="EODhelmet">
 		<OR>
-			<HELMETPOS op="in">804</HELMETPOS>
+			<HELMETPOS op="in">804, 816, 828</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="EODvestAndPistol">
