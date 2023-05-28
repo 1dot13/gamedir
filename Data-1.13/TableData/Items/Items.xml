@@ -199,16 +199,8 @@
 		<emptybloodbag>0</emptybloodbag>
 		<medicalsplint>0</medicalsplint>
 		<sFireResistance>0</sFireResistance>
-		<RobotDamageReduction>1.0</RobotDamageReduction>
-		<RobotStrBonus>0</RobotStrBonus>
-		<RobotAgiBonus>0</RobotAgiBonus>
-		<RobotDexBonus>0</RobotDexBonus>
-		<ProvidesRobotCamo>0</ProvidesRobotCamo>
-		<ProvidesRobotNightVision>0</ProvidesRobotNightVision>
-		<ProvidesRobotLaserBonus>0</ProvidesRobotLaserBonus>
-		<RobotChassisSkillGrant>0</RobotChassisSkillGrant>
-		<RobotTargetingSkillGrant>0</RobotTargetingSkillGrant>
-		<RobotUtilitySkillGrant>0</RobotUtilitySkillGrant>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>0</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<FlatBase>0</FlatBase>
 			<PercentBase>0</PercentBase>
@@ -1280,6 +1272,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>27.4</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1317,6 +1311,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>40</DamageChance>
 		<DirtIncreaseFactor>28.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1353,6 +1349,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1389,6 +1387,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1425,6 +1425,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>20</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1535,6 +1537,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>23.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 	</ITEM>
 	<ITEM>
 		<uiIndex>37</uiIndex>
@@ -1665,6 +1669,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1921,6 +1927,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -1957,6 +1965,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -2080,6 +2090,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>30</PercentMaxCounterForce>
@@ -2387,6 +2399,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>30</PercentMaxCounterForce>
@@ -4037,6 +4051,8 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4068,6 +4084,8 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4099,6 +4117,8 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4131,6 +4151,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4163,6 +4185,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4476,6 +4500,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4510,6 +4536,8 @@
 		<GLGrenade>1</GLGrenade>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4543,6 +4571,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4576,6 +4606,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4609,6 +4641,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -4640,6 +4674,8 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -5727,7 +5763,6 @@
 		<APBonus>-1</APBonus>
 		<StealthBonus>-3</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<RobotDamageReduction>0.9</RobotDamageReduction>
 		<STAND_MODIFIERS>
 			<PercentBase>-15</PercentBase>
 			<PercentCap>-6</PercentCap>
@@ -6311,6 +6346,8 @@
 		<Medical>1</Medical>
 		<FirstAidKit>1</FirstAidKit>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6337,6 +6374,8 @@
 		<BR_NewInventory>5</BR_NewInventory>
 		<Medical>1</Medical>
 		<MedicalKit>1</MedicalKit>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -6368,6 +6407,8 @@
 		<Toolkit>1</Toolkit>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DisarmModifier>15</DisarmModifier>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6622,7 +6663,6 @@
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotNightVision>1</ProvidesRobotNightVision>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6766,6 +6806,8 @@
 		<SciFi>1</SciFi>
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7348,7 +7390,6 @@
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotLaserBonus>1</ProvidesRobotLaserBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7505,7 +7546,6 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotNightVision>1</ProvidesRobotNightVision>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -8350,7 +8390,6 @@
 		<DesertCamoBonus>10</DesertCamoBonus>
 		<StealthBonus>-10</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-3</PercentBase>
 			<PercentCap>-1</PercentCap>
@@ -8396,7 +8435,6 @@
 		<DesertCamoBonus>10</DesertCamoBonus>
 		<StealthBonus>-5</StealthBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-1</PercentBase>
 			<PercentCounterForceAccuracy>-1</PercentCounterForceAccuracy>
@@ -9128,9 +9166,6 @@
 		<PercentBurstFireAPReduction>80</PercentBurstFireAPReduction>
 		<PercentAutofireAPReduction>50</PercentAutofireAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<RobotStrBonus>10</RobotStrBonus>
-		<RobotAgiBonus>10</RobotAgiBonus>
-		<RobotDexBonus>10</RobotDexBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9626,6 +9661,8 @@
 		<GasCan>1</GasCan>
 		<ContainsLiquid>1</ContainsLiquid>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9818,6 +9855,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>43.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9853,6 +9892,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>26.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9891,6 +9932,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9961,6 +10004,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -10066,6 +10111,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS/>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -10211,6 +10258,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -17151,6 +17200,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>30</PercentMaxCounterForce>
@@ -17606,6 +17657,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>43.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -17646,6 +17699,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -17679,6 +17734,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>29.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -17714,6 +17771,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -17891,6 +17950,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>45.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18108,6 +18169,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>20</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18214,6 +18277,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18283,6 +18348,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18317,6 +18384,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18351,6 +18420,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18388,6 +18459,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>70.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
@@ -18430,6 +18503,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>76.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18546,6 +18621,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18653,6 +18730,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18803,6 +18882,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>25.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -18953,6 +19034,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>56.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19064,6 +19147,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>90.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19218,6 +19303,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 	</ITEM>
 	<ITEM>
 		<uiIndex>662</uiIndex>
@@ -19288,6 +19375,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19473,6 +19562,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>33.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19511,6 +19602,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>25.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19662,6 +19755,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>30</PercentMaxCounterForce>
@@ -19708,6 +19803,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19780,6 +19877,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>45.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -19924,6 +20023,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20006,6 +20107,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>120.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20079,6 +20182,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>50.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20155,6 +20260,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-10</PercentHandling>
 			<PercentMaxCounterForce>30</PercentMaxCounterForce>
@@ -20200,6 +20307,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 	</ITEM>
 	<ITEM>
 		<uiIndex>688</uiIndex>
@@ -20233,6 +20342,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20443,6 +20554,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20551,6 +20664,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>120.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20586,6 +20701,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -20659,6 +20776,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS>
@@ -20982,6 +21101,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -21018,6 +21139,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>67.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -21127,6 +21250,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>24.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -21484,6 +21609,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -21692,6 +21819,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>80.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -21868,6 +21997,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>49.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 	</ITEM>
 	<ITEM>
 		<uiIndex>734</uiIndex>
@@ -22123,6 +22254,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>28.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 	</ITEM>
 	<ITEM>
 		<uiIndex>741</uiIndex>
@@ -22339,6 +22472,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>89.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -22426,6 +22561,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
 		</STAND_MODIFIERS>
@@ -22879,6 +23016,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>43.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -22986,6 +23125,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23021,6 +23162,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23056,6 +23199,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23157,6 +23302,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>47.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23231,6 +23378,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>30</DamageChance>
 		<DirtIncreaseFactor>40.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>20</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23374,6 +23523,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>20</DamageChance>
 		<DirtIncreaseFactor>115.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23482,6 +23633,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>60.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23517,6 +23670,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>65.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23553,6 +23708,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -23921,6 +24078,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24029,6 +24188,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24065,6 +24226,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>10.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24134,6 +24297,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24169,6 +24334,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24203,6 +24370,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>34.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -24576,7 +24745,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>807</uiIndex>
-		<szItemName>Ghillie Hood</szItemName>
+		<szItemName>Ghillie Helmet</szItemName>
 		<szLongItemName>Ghillie Hood</szLongItemName>
 		<szItemDesc>Either as a companion to the ghillie suit or on its own, the ghillie hood camouflages your most important piece of equipment: your head.</szItemDesc>
 		<szBRName>Ghillie Hood</szBRName>
@@ -24612,9 +24781,9 @@
 	<ITEM>
 		<uiIndex>808</uiIndex>
 		<szItemName>Ghillie Pants</szItemName>
-		<szLongItemName>Ghillie Pants</szLongItemName>
+		<szLongItemName>Ghillie Leggings</szLongItemName>
 		<szItemDesc>High quality jute thread is sewn directly onto military BDU trousers. The sewn-on jute thread covers the back and the front.</szItemDesc>
-		<szBRName>Ghillie Pants</szBRName>
+		<szBRName>Ghillie Leggings</szBRName>
 		<szBRDesc>Unless you plan to wear jeans under your ghillie suit, these pants are a must-have if you are going for a covert approach.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -24668,7 +24837,6 @@
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>50</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -25963,7 +26131,6 @@
 		<AimBonus>-1</AimBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -26007,7 +26174,6 @@
 		<APBonus>-3</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -26051,7 +26217,6 @@
 		<APBonus>-3</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -27887,6 +28052,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>30</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -27923,6 +28090,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28065,6 +28234,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>70</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28178,6 +28349,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28213,6 +28386,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28249,6 +28424,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28466,6 +28643,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28502,6 +28681,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>90</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28540,6 +28721,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28578,6 +28761,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28616,6 +28801,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>70</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28675,6 +28862,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -28747,6 +28936,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29472,7 +29663,6 @@
 		<StealthBonus>-15</StealthBonus>
 		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotLaserBonus>1</ProvidesRobotLaserBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29578,6 +29768,8 @@
 		<GLGrenade>1</GLGrenade>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29608,6 +29800,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29638,6 +29832,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29668,6 +29864,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29698,6 +29896,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29728,6 +29928,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29759,6 +29961,8 @@
 		<GLGrenade>1</GLGrenade>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29789,6 +29993,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29819,6 +30025,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29849,6 +30057,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29879,6 +30089,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29909,6 +30121,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30006,6 +30220,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30134,6 +30350,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30313,6 +30531,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30346,6 +30566,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30379,6 +30601,8 @@
 		<BR_NewInventory>1</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30438,6 +30662,8 @@
 		<GLGrenade>1</GLGrenade>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30474,6 +30700,8 @@
 		<GLGrenade>1</GLGrenade>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30538,6 +30766,8 @@
 		<Directional>1</Directional>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30569,6 +30799,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30600,6 +30832,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30631,6 +30865,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30662,6 +30898,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30693,6 +30931,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30721,6 +30961,8 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30749,6 +30991,8 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30780,6 +31024,8 @@
 		<SciFi>1</SciFi>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30838,6 +31084,8 @@
 		<GLGrenade>1</GLGrenade>
 		<AttachmentSystem>1</AttachmentSystem>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30870,6 +31118,8 @@
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -30906,6 +31156,8 @@
 		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ItemChoiceTimeSetting>2</ItemChoiceTimeSetting>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31273,7 +31525,6 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<ProjectionFactor>1.6</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotLaserBonus>1</ProvidesRobotLaserBonus>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31831,7 +32082,6 @@
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotNightVision>1</ProvidesRobotNightVision>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31867,7 +32117,6 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotNightVision>1</ProvidesRobotNightVision>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -33016,6 +33265,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>32.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -33324,6 +33575,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>10</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -33398,6 +33651,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>9</DamageChance>
 		<DirtIncreaseFactor>19.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -33909,6 +34164,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -34118,7 +34375,6 @@
 		<APBonus>-2</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -34161,7 +34417,6 @@
 		<APBonus>-5</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -34205,7 +34460,6 @@
 		<APBonus>-4</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -35384,7 +35638,6 @@
 		<APBonus>-1</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -35428,7 +35681,6 @@
 		<APBonus>-4</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -35472,7 +35724,6 @@
 		<APBonus>-3</APBonus>
 		<CamoBonus>25</CamoBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-8</PercentBase>
 			<PercentCap>-3</PercentCap>
@@ -37179,6 +37430,8 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -37248,6 +37501,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>30.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -37418,10 +37673,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1197</uiIndex>
-		<szItemName>Ghillie Cover</szItemName>
-		<szLongItemName>Ghillie Cover</szLongItemName>
-		<szItemDesc>Either as a companion to the ghillie suit or on its own, the ghillie cover fits over most helmets to camouflage your most important piece of equipment: your head.</szItemDesc>
-		<szBRName>Ghillie Cover</szBRName>
+		<szItemName>Ghillie Hood</szItemName>
+		<szLongItemName>Ghillie Hood</szLongItemName>
+		<szItemDesc>Either as a companion to the ghillie suit or on its own, the ghillie hood camouflages your most important piece of equipment: your head.</szItemDesc>
+		<szBRName>Ghillie Hood</szBRName>
 		<szBRDesc>The finishing touch for your ghillie suit. Also useful to keep the sun out of your eyes and as a mosquito net.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>8192</AttachmentClass>
@@ -37453,11 +37708,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1198</uiIndex>
-		<szItemName>Ghillie Leggings</szItemName>
+		<szItemName>Ghillie Pants</szItemName>
 		<szLongItemName>Ghillie Leggings</szLongItemName>
-		<szItemDesc>High quality jute thread completely covering the front and back is sewn directly onto baggy military BDU trousers meant to be worn over certain forms of lower body armor.</szItemDesc>
+		<szItemDesc>High quality jute thread is sewn directly onto military BDU trousers. The sewn-on jute thread covers the back and the front.</szItemDesc>
 		<szBRName>Ghillie Leggings</szBRName>
-		<szBRDesc>Unless you plan to wear jeans under your ghillie suit, these leggings are a must-have if you are going for a covert approach.</szBRDesc>
+		<szBRDesc>Unless you plan to wear jeans under your ghillie suit, these pants are a must-have if you are going for a covert approach.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32768</AttachmentClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -37486,9 +37741,9 @@
 		<uiIndex>1199</uiIndex>
 		<szItemName>Ghillie Jacket</szItemName>
 		<szLongItemName>Ghillie Jacket</szLongItemName>
-		<szItemDesc>High quality jute thread completely covering the front and back is sewn directly onto a military BDU four-pocket coat meant to be worn over most types of upper body armor. An attached hood can also be accommodated.</szItemDesc>
+		<szItemDesc>High quality jute thread is sewn directly on to a military BDU four-pocket coat. The sewn-on jute thread covers the entire jacket in the front and the back, and has an attached hood.</szItemDesc>
 		<szBRName>Ghillie Jacket</szBRName>
-		<szBRDesc>Whether you are spying on that cute-looking girl next door, or sneaking up to that perfect spot overlooking an enemy base, this jacket will help to ensure nobody sees you.</szBRDesc>
+		<szBRDesc>Whether you are spying on that cute-looking girl next door, or sneaking up to that perfect spot overlooking an enemy base, this vest will make sure nobody sees you.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>16384</AttachmentClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
@@ -37510,7 +37765,6 @@
 		<CamoBonus>40</CamoBonus>
 		<NewInv>1</NewInv>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<ProvidesRobotCamo>1</ProvidesRobotCamo>
 		<STAND_MODIFIERS>
 			<PercentBase>-5</PercentBase>
 			<PercentCap>-2</PercentCap>
@@ -40937,6 +41191,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -40976,6 +41232,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -41017,6 +41275,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentMaxCounterForce>-20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>-20</PercentCounterForceAccuracy>
@@ -41982,6 +42242,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42011,6 +42273,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42042,6 +42306,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42073,6 +42339,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42102,6 +42370,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<GLGrenade>1</GLGrenade>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -42135,6 +42405,8 @@
 		<Flare>1</Flare>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<ItemChoiceTimeSetting>2</ItemChoiceTimeSetting>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50644,7 +50916,8 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
-		<RobotUtilitySkillGrant>21</RobotUtilitySkillGrant>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -50758,6 +51031,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<ItemChoiceTimeSetting>2</ItemChoiceTimeSetting>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51636,6 +51911,8 @@
 		<DamageChance>10</DamageChance>
 		<DirtIncreaseFactor>20.0</DirtIncreaseFactor>
 		<ItemFlag>2</ItemFlag>	<!-- surface-to-air missile launcher -->
+		<TransportGroupMinProgress>50</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -51670,6 +51947,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Directional>1</Directional>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -52179,6 +52458,8 @@
 		<FirstAidKit>1</FirstAidKit>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<PercentStatusDrainReduction>-300</PercentStatusDrainReduction>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -52227,6 +52508,8 @@
 		<BR_NewInventory>6</BR_NewInventory>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<emptybloodbag>1</emptybloodbag>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -52251,6 +52534,8 @@
 		<Medical>1</Medical>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<bloodbag>1</bloodbag>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
