@@ -6518,6 +6518,8 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-3</PercentHandling>
 			<PercentMaxCounterForce>20</PercentMaxCounterForce>
@@ -6562,6 +6564,8 @@
 		<PercentTunnelVision>90</PercentTunnelVision>
 		<ScopeMagFactor>10.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>3</AimLevels>
 		</STAND_MODIFIERS>
@@ -6594,6 +6598,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<Bipod>10</Bipod>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>20</PercentHandling>
 		</STAND_MODIFIERS>
@@ -6630,6 +6636,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<HearingRangeBonus>5</HearingRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6663,6 +6671,8 @@
 		<DayVisionRangeBonus>-20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>20</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -6694,6 +6704,8 @@
 		<CaveVisionRangeBonus>-20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7390,6 +7402,8 @@
 		<StealthBonus>-5</StealthBonus>
 		<ProjectionFactor>1.3</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -7546,6 +7560,8 @@
 		<CaveVisionRangeBonus>10</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>20</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>40</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -16717,6 +16733,8 @@
 		<HideMuzzleFlash>1</HideMuzzleFlash>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<PercentHandling>-3</PercentHandling>
 			<PercentMaxCounterForce>20</PercentMaxCounterForce>
@@ -29539,6 +29557,8 @@
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<ProjectionFactor>1.7</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -29624,6 +29644,8 @@
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<ProjectionFactor>3.5</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29663,6 +29685,8 @@
 		<StealthBonus>-15</StealthBonus>
 		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -29704,6 +29728,8 @@
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31245,6 +31271,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>20</PercentAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -31288,6 +31316,8 @@
 		<PercentTunnelVision>30</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
 		</STAND_MODIFIERS>
@@ -31331,6 +31361,8 @@
 		<PercentTunnelVision>80</PercentTunnelVision>
 		<ScopeMagFactor>8.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>2</AimLevels>
 		</STAND_MODIFIERS>
@@ -31525,6 +31557,8 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<ProjectionFactor>1.6</ProjectionFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -31557,6 +31591,8 @@
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<PercentAPReduction>20</PercentAPReduction>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -31599,6 +31635,8 @@
 		<PercentTunnelVision>70</PercentTunnelVision>
 		<ScopeMagFactor>7.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>2</AimLevels>
 		</STAND_MODIFIERS>
@@ -31772,6 +31810,8 @@
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<overheatCooldownModificator>-0.2</overheatCooldownModificator>
 		<STAND_MODIFIERS>
+		<TransportGroupMinProgress>30</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 			<PercentHandling>-3</PercentHandling>
 			<PercentMaxCounterForce>20</PercentMaxCounterForce>
 			<PercentCounterForceAccuracy>10</PercentCounterForceAccuracy>
@@ -32082,6 +32122,8 @@
 		<CaveVisionRangeBonus>15</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32117,6 +32159,8 @@
 		<CaveVisionRangeBonus>20</CaveVisionRangeBonus>
 		<BrightLightVisionRangeBonus>-40</BrightLightVisionRangeBonus>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>60</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32247,6 +32291,8 @@
 		<PercentTunnelVision>10</PercentTunnelVision>
 		<ScopeMagFactor>2.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32288,6 +32334,8 @@
 		<PercentTunnelVision>20</PercentTunnelVision>
 		<ScopeMagFactor>4.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
 		</STAND_MODIFIERS>
@@ -37234,6 +37282,8 @@
 		<ToHitBonus>7</ToHitBonus>
 		<ScopeMagFactor>1.0</ScopeMagFactor>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>0</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<STAND_MODIFIERS>
 			<AimLevels>-1</AimLevels>
 		</STAND_MODIFIERS>
@@ -49185,6 +49235,8 @@
 		<NeedsBatteries>1</NeedsBatteries>
 		<ProjectionFactor>3.0</ProjectionFactor>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<TransportGroupMinProgress>40</TransportGroupMinProgress>
+		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
