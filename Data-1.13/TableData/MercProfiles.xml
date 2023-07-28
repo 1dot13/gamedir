@@ -2887,6 +2887,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>27</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>28</uiIndex>
@@ -9224,6 +9235,17 @@
 		<bTown>7</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>93</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>94</uiIndex>
@@ -16904,6 +16926,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>173</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>174</uiIndex>
@@ -17864,6 +17897,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>183</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>184</uiIndex>
@@ -17960,6 +18004,7 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>184</usBackground>
+		<GrowthModifierMarksmanship>1000</GrowthModifierMarksmanship>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>185</uiIndex>
@@ -18248,6 +18293,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>187</usBackground>
+		<GrowthModifierLife>150</GrowthModifierLife>
+		<GrowthModifierStrength>150</GrowthModifierStrength>
+		<GrowthModifierAgility>150</GrowthModifierAgility>
+		<GrowthModifierDexterity>150</GrowthModifierDexterity>
+		<GrowthModifierWisdom>150</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>150</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>150</GrowthModifierExplosive>
+		<GrowthModifierLeadership>150</GrowthModifierLeadership>
+		<GrowthModifierMedical>150</GrowthModifierMedical>
+		<GrowthModifierMechanical>150</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>150</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>188</uiIndex>
@@ -21586,6 +21642,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>222</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>223</uiIndex>
@@ -21971,6 +22038,17 @@
 		<bTown>0</bTown>
 		<bTownAttachment>0</bTownAttachment>
 		<usBackground>226</usBackground>
+		<GrowthModifierLife>10000</GrowthModifierLife>
+		<GrowthModifierStrength>10000</GrowthModifierStrength>
+		<GrowthModifierAgility>10000</GrowthModifierAgility>
+		<GrowthModifierDexterity>10000</GrowthModifierDexterity>
+		<GrowthModifierWisdom>10000</GrowthModifierWisdom>
+		<GrowthModifierMarksmanship>10000</GrowthModifierMarksmanship>
+		<GrowthModifierExplosive>10000</GrowthModifierExplosive>
+		<GrowthModifierLeadership>10000</GrowthModifierLeadership>
+		<GrowthModifierMedical>10000</GrowthModifierMedical>
+		<GrowthModifierMechanical>10000</GrowthModifierMechanical>
+		<GrowthModifierExpLevel>10000</GrowthModifierExpLevel>
 	</PROFILE>
 	<PROFILE>
 		<uiIndex>227</uiIndex>
