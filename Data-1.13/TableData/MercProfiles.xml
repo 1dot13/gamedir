@@ -238,7 +238,7 @@
 		<bMedical>20</bMedical>
 		<bMechanical>44</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -335,7 +335,7 @@
 		<bMedical>51</bMedical>
 		<bMechanical>23</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>12</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -431,7 +431,7 @@
 		<bMedical>34</bMedical>
 		<bMechanical>29</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -527,7 +527,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>24</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -623,7 +623,7 @@
 		<bMedical>18</bMedical>
 		<bMechanical>94</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>5</bNewSkillTrait1>
@@ -719,7 +719,7 @@
 		<bMedical>7</bMedical>
 		<bMechanical>99</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -815,7 +815,7 @@
 		<bMedical>22</bMedical>
 		<bMechanical>44</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -911,7 +911,7 @@
 		<bMedical>15</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -1007,7 +1007,7 @@
 		<bMedical>22</bMedical>
 		<bMechanical>76</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -1103,7 +1103,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>36</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>14</bNewSkillTrait1>
@@ -1199,7 +1199,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>12</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>15</bOldSkillTrait2>
 		<bNewSkillTrait1>4</bNewSkillTrait1>
@@ -1295,7 +1295,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>33</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>3</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -1391,7 +1391,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>37</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>14</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -1487,7 +1487,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>6</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -1583,7 +1583,7 @@
 		<bMedical>70</bMedical>
 		<bMechanical>15</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>10</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -1679,7 +1679,7 @@
 		<bMedical>44</bMedical>
 		<bMechanical>2</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>5</bNewSkillTrait1>
@@ -1775,7 +1775,7 @@
 		<bMedical>68</bMedical>
 		<bMechanical>80</bMechanical>
 		<bExpLevel>8</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -1871,7 +1871,7 @@
 		<bMedical>48</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -1967,7 +1967,7 @@
 		<bMedical>7</bMedical>
 		<bMechanical>42</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -2063,7 +2063,7 @@
 		<bMedical>94</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -2159,7 +2159,7 @@
 		<bMedical>84</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -2255,7 +2255,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>25</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -2351,7 +2351,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>11</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -2447,7 +2447,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -2544,7 +2544,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>12</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -2640,7 +2640,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -2736,7 +2736,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>99</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -2832,7 +2832,7 @@
 		<bMedical>35</bMedical>
 		<bMechanical>54</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -2928,7 +2928,7 @@
 		<bMedical>88</bMedical>
 		<bMechanical>12</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -3024,7 +3024,7 @@
 		<bMedical>24</bMedical>
 		<bMechanical>91</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -3120,7 +3120,7 @@
 		<bMedical>15</bMedical>
 		<bMechanical>15</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -3216,7 +3216,7 @@
 		<bMedical>36</bMedical>
 		<bMechanical>61</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -3312,7 +3312,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -3408,7 +3408,7 @@
 		<bMedical>87</bMedical>
 		<bMechanical>19</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>12</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -3505,7 +3505,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>63</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -3601,7 +3601,7 @@
 		<bMedical>70</bMedical>
 		<bMechanical>35</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -3697,7 +3697,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -3793,7 +3793,7 @@
 		<bMedical>48</bMedical>
 		<bMechanical>65</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>16</bNewSkillTrait1>
@@ -3889,7 +3889,7 @@
 		<bMedical>80</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -3985,7 +3985,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>10</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -4081,7 +4081,7 @@
 		<bMedical>24</bMedical>
 		<bMechanical>2</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -4177,7 +4177,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -4273,7 +4273,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>82</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -4369,7 +4369,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -4465,7 +4465,7 @@
 		<bMedical>19</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -4561,7 +4561,7 @@
 		<bMedical>9</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -4657,7 +4657,7 @@
 		<bMedical>70</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -4753,7 +4753,7 @@
 		<bMedical>49</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>2</bEvolution>
+		<fRegresses>1</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -4849,7 +4849,7 @@
 		<bMedical>33</bMedical>
 		<bMechanical>58</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -4945,7 +4945,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>9</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>12</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -5041,7 +5041,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>59</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -5137,7 +5137,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5233,7 +5233,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5329,7 +5329,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5425,7 +5425,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5521,7 +5521,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5617,7 +5617,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -5713,7 +5713,7 @@
 		<bMedical>13</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -5809,7 +5809,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>34</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>14</bNewSkillTrait1>
@@ -5905,7 +5905,7 @@
 		<bMedical>40</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -6001,7 +6001,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>71</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -6097,7 +6097,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>34</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -6193,7 +6193,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -6289,7 +6289,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>19</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>14</bNewSkillTrait1>
@@ -6385,7 +6385,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>44</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -6481,7 +6481,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>15</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -6577,7 +6577,7 @@
 		<bMedical>21</bMedical>
 		<bMechanical>67</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -6673,7 +6673,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>11</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -6769,7 +6769,7 @@
 		<bMedical>33</bMedical>
 		<bMechanical>42</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -6865,7 +6865,7 @@
 		<bMedical>94</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>10</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -6961,7 +6961,7 @@
 		<bMedical>49</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -7057,7 +7057,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -7153,7 +7153,7 @@
 		<bMedical>7</bMedical>
 		<bMechanical>68</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -7249,7 +7249,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -7345,7 +7345,7 @@
 		<bMedical>20</bMedical>
 		<bMechanical>80</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -7441,7 +7441,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>10</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -7537,7 +7537,7 @@
 		<bMedical>14</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -7633,7 +7633,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -7729,7 +7729,7 @@
 		<bMedical>25</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -7825,7 +7825,7 @@
 		<bMedical>47</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>9</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>12</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -7921,7 +7921,7 @@
 		<bMedical>94</bMedical>
 		<bMechanical>18</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -8017,7 +8017,7 @@
 		<bMedical>14</bMedical>
 		<bMechanical>27</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -8113,7 +8113,7 @@
 		<bMedical>40</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8209,7 +8209,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>33</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8305,7 +8305,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>30</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8401,7 +8401,7 @@
 		<bMedical>19</bMedical>
 		<bMechanical>70</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8497,7 +8497,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>19</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -8593,7 +8593,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>40</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -8689,7 +8689,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>1</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8785,7 +8785,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8881,7 +8881,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -8977,7 +8977,7 @@
 		<bMedical>16</bMedical>
 		<bMechanical>90</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9073,7 +9073,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9169,7 +9169,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>16</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -9265,7 +9265,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9361,7 +9361,7 @@
 		<bMedical>19</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9457,7 +9457,7 @@
 		<bMedical>13</bMedical>
 		<bMechanical>21</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9553,7 +9553,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>73</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9649,7 +9649,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>55</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9745,7 +9745,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>44</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9841,7 +9841,7 @@
 		<bMedical>31</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -9937,7 +9937,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10033,7 +10033,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>9</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10129,7 +10129,7 @@
 		<bMedical>14</bMedical>
 		<bMechanical>11</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10225,7 +10225,7 @@
 		<bMedical>26</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10321,7 +10321,7 @@
 		<bMedical>60</bMedical>
 		<bMechanical>90</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10417,7 +10417,7 @@
 		<bMedical>6</bMedical>
 		<bMechanical>16</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10513,7 +10513,7 @@
 		<bMedical>44</bMedical>
 		<bMechanical>3</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10609,7 +10609,7 @@
 		<bMedical>77</bMedical>
 		<bMechanical>31</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10705,7 +10705,7 @@
 		<bMedical>6</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -10801,7 +10801,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>33</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -10897,7 +10897,7 @@
 		<bMedical>15</bMedical>
 		<bMechanical>16</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -10993,7 +10993,7 @@
 		<bMedical>64</bMedical>
 		<bMechanical>45</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -11089,7 +11089,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>90</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11185,7 +11185,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11281,7 +11281,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>98</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11377,7 +11377,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>51</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11473,7 +11473,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>97</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11569,7 +11569,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>43</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11665,7 +11665,7 @@
 		<bMedical>20</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11761,7 +11761,7 @@
 		<bMedical>22</bMedical>
 		<bMechanical>9</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11857,7 +11857,7 @@
 		<bMedical>7</bMedical>
 		<bMechanical>26</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -11953,7 +11953,7 @@
 		<bMedical>25</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12049,7 +12049,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12145,7 +12145,7 @@
 		<bMedical>3</bMedical>
 		<bMechanical>50</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12241,7 +12241,7 @@
 		<bMedical>45</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12337,7 +12337,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>58</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12433,7 +12433,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12529,7 +12529,7 @@
 		<bMedical>6</bMedical>
 		<bMechanical>63</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12625,7 +12625,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>5</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12721,7 +12721,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>94</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>3</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -12817,7 +12817,7 @@
 		<bMedical>38</bMedical>
 		<bMechanical>57</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -12913,7 +12913,7 @@
 		<bMedical>55</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13009,7 +13009,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>2</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13105,7 +13105,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>20</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13201,7 +13201,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13297,7 +13297,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13393,7 +13393,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>30</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13489,7 +13489,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>87</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13585,7 +13585,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>39</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13681,7 +13681,7 @@
 		<bMedical>14</bMedical>
 		<bMechanical>12</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13777,7 +13777,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>11</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13873,7 +13873,7 @@
 		<bMedical>45</bMedical>
 		<bMechanical>18</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -13969,7 +13969,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>30</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14065,7 +14065,7 @@
 		<bMedical>32</bMedical>
 		<bMechanical>32</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14161,7 +14161,7 @@
 		<bMedical>88</bMedical>
 		<bMechanical>88</bMechanical>
 		<bExpLevel>8</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14257,7 +14257,7 @@
 		<bMedical>35</bMedical>
 		<bMechanical>17</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -14353,7 +14353,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>67</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14449,7 +14449,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>70</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14545,7 +14545,7 @@
 		<bMedical>67</bMedical>
 		<bMechanical>98</bMechanical>
 		<bExpLevel>8</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -14641,7 +14641,7 @@
 		<bMedical>9</bMedical>
 		<bMechanical>33</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14737,7 +14737,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14833,7 +14833,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -14929,7 +14929,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15025,7 +15025,7 @@
 		<bMedical>5</bMedical>
 		<bMechanical>14</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15121,7 +15121,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15217,7 +15217,7 @@
 		<bMedical>20</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15313,7 +15313,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>43</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15409,7 +15409,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>38</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15505,7 +15505,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15601,7 +15601,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15697,7 +15697,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15793,7 +15793,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15889,7 +15889,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -15985,7 +15985,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -16081,7 +16081,7 @@
 		<bMedical>23</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>14</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -16177,7 +16177,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>74</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -16273,7 +16273,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>44</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>10</bOldSkillTrait>
 		<bOldSkillTrait2>15</bOldSkillTrait2>
 		<bNewSkillTrait1>5</bNewSkillTrait1>
@@ -16369,7 +16369,7 @@
 		<bMedical>17</bMedical>
 		<bMechanical>71</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>3</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -16465,7 +16465,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -16561,7 +16561,7 @@
 		<bMedical>38</bMedical>
 		<bMechanical>32</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>15</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -16657,7 +16657,7 @@
 		<bMedical>28</bMedical>
 		<bMechanical>76</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -16753,7 +16753,7 @@
 		<bMedical>34</bMedical>
 		<bMechanical>37</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -16849,7 +16849,7 @@
 		<bMedical>28</bMedical>
 		<bMechanical>32</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -16945,7 +16945,7 @@
 		<bMedical>30</bMedical>
 		<bMechanical>35</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>2</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -17041,7 +17041,7 @@
 		<bMedical>57</bMedical>
 		<bMechanical>33</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -17137,7 +17137,7 @@
 		<bMedical>26</bMedical>
 		<bMechanical>22</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>12</bNewSkillTrait1>
@@ -17233,7 +17233,7 @@
 		<bMedical>46</bMedical>
 		<bMechanical>32</bMechanical>
 		<bExpLevel>6</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>4</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -17329,7 +17329,7 @@
 		<bMedical>52</bMedical>
 		<bMechanical>18</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>15</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -17425,7 +17425,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -17521,7 +17521,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>6</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>21</bNewSkillTrait1>
@@ -17617,7 +17617,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>3</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>12</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -17713,7 +17713,7 @@
 		<bMedical>94</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -17809,7 +17809,7 @@
 		<bMedical>18</bMedical>
 		<bMechanical>9</bMechanical>
 		<bExpLevel>9</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>4</bNewSkillTrait1>
@@ -17905,7 +17905,7 @@
 		<bMedical>24</bMedical>
 		<bMechanical>95</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -18001,7 +18001,7 @@
 		<bMedical>70</bMedical>
 		<bMechanical>65</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -18097,7 +18097,7 @@
 		<bMedical>96</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -18193,7 +18193,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>15</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>5</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -18289,7 +18289,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -18385,7 +18385,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>2</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -18481,7 +18481,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>2</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>5</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -18577,7 +18577,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>99</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -18673,7 +18673,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -18768,7 +18768,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -18863,7 +18863,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -18958,7 +18958,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>88</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19054,7 +19054,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>19</bNewSkillTrait1>
@@ -19150,7 +19150,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>70</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -19246,7 +19246,7 @@
 		<bMedical>46</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -19342,7 +19342,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19437,7 +19437,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19532,7 +19532,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19627,7 +19627,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19722,7 +19722,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19817,7 +19817,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -19912,7 +19912,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20007,7 +20007,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20102,7 +20102,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20197,7 +20197,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20292,7 +20292,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20387,7 +20387,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20482,7 +20482,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20577,7 +20577,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20672,7 +20672,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20767,7 +20767,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -20862,7 +20862,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>13</bMechanical>
 		<bExpLevel>2</bExpLevel>		
-		<bEvolution>0</bEvolution>		
+		<fRegresses>0</fRegresses>		
 		<bOldSkillTrait>8</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>4</bNewSkillTrait1>
@@ -20958,7 +20958,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -21053,7 +21053,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -21148,7 +21148,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -21243,7 +21243,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
@@ -21338,7 +21338,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>18</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>14</bNewSkillTrait1>
@@ -21434,7 +21434,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>7</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -21530,7 +21530,7 @@
 		<bMedical>25</bMedical>
 		<bMechanical>48</bMechanical>
 		<bExpLevel>8</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>7</bNewSkillTrait1>
@@ -21627,7 +21627,7 @@
 		<bMedical>14</bMedical>
 		<bMechanical>24</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>7</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>2</bNewSkillTrait1>
@@ -21724,7 +21724,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>87</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -21820,7 +21820,7 @@
 		<bMedical>59</bMedical>
 		<bMechanical>25</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -21916,7 +21916,7 @@
 		<bMedical>21</bMedical>
 		<bMechanical>72</bMechanical>
 		<bExpLevel>7</bExpLevel>
-		<bEvolution>1</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>4</bNewSkillTrait1>
@@ -22012,7 +22012,7 @@
 		<bMedical>44</bMedical>
 		<bMechanical>1</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>15</bNewSkillTrait1>
@@ -22108,7 +22108,7 @@
 		<bMedical>83</bMedical>
 		<bMechanical>3</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -22204,7 +22204,7 @@
 		<bMedical>40</bMedical>
 		<bMechanical>8</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>23</bNewSkillTrait1>
@@ -22300,7 +22300,7 @@
 		<bMedical>11</bMedical>
 		<bMechanical>99</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>3</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -22396,7 +22396,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>20</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>9</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -22492,7 +22492,7 @@
 		<bMedical>57</bMedical>
 		<bMechanical>78</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>3</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -22588,7 +22588,7 @@
 		<bMedical>13</bMedical>
 		<bMechanical>78</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>6</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -22684,7 +22684,7 @@
 		<bMedical>4</bMedical>
 		<bMechanical>92</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>10</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -22780,7 +22780,7 @@
 		<bMedical>9</bMedical>
 		<bMechanical>10</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -22876,7 +22876,7 @@
 		<bMedical>40</bMedical>
 		<bMechanical>28</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>8</bOldSkillTrait2>
 		<bNewSkillTrait1>1</bNewSkillTrait1>
@@ -22972,7 +22972,7 @@
 		<bMedical>15</bMedical>
 		<bMechanical>68</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>7</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -23068,7 +23068,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>88</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>1</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -23164,7 +23164,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>37</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>5</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -23260,7 +23260,7 @@
 		<bMedical>24</bMedical>
 		<bMechanical>28</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>14</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>3</bNewSkillTrait1>
@@ -23356,7 +23356,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>46</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>4</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -23452,7 +23452,7 @@
 		<bMedical>93</bMedical>
 		<bMechanical>37</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -23548,7 +23548,7 @@
 		<bMedical>8</bMedical>
 		<bMechanical>86</bMechanical>
 		<bExpLevel>4</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>2</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>6</bNewSkillTrait1>
@@ -23644,7 +23644,7 @@
 		<bMedical>12</bMedical>
 		<bMechanical>81</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>20</bNewSkillTrait1>
@@ -23740,7 +23740,7 @@
 		<bMedical>10</bMedical>
 		<bMechanical>4</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>9</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>20</bNewSkillTrait1>
@@ -23836,7 +23836,7 @@
 		<bMedical>6</bMedical>
 		<bMechanical>38</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>13</bOldSkillTrait>
 		<bOldSkillTrait2>13</bOldSkillTrait2>
 		<bNewSkillTrait1>11</bNewSkillTrait1>
@@ -23932,7 +23932,7 @@
 		<bMedical>15</bMedical>
 		<bMechanical>15</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>6</bOldSkillTrait>
 		<bOldSkillTrait2>10</bOldSkillTrait2>
 		<bNewSkillTrait1>18</bNewSkillTrait1>
@@ -24028,7 +24028,7 @@
 		<bMedical>89</bMedical>
 		<bMechanical>21</bMechanical>
 		<bExpLevel>3</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>9</bNewSkillTrait1>
@@ -24124,7 +24124,7 @@
 		<bMedical>22</bMedical>
 		<bMechanical>26</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>19</bNewSkillTrait1>
@@ -24220,7 +24220,7 @@
 		<bMedical>29</bMedical>
 		<bMechanical>88</bMechanical>
 		<bExpLevel>5</bExpLevel>
-		<bEvolution>2</bEvolution>
+		<fRegresses>1</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>1</bOldSkillTrait2>
 		<bNewSkillTrait1>8</bNewSkillTrait1>
@@ -24316,7 +24316,7 @@
 		<bMedical>7</bMedical>
 		<bMechanical>20</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -24412,7 +24412,7 @@
 		<bMedical>31</bMedical>
 		<bMechanical>11</bMechanical>
 		<bExpLevel>1</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>3</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>17</bNewSkillTrait1>
@@ -24508,7 +24508,7 @@
 		<bMedical>2</bMedical>
 		<bMechanical>12</bMechanical>
 		<bExpLevel>2</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>5</bNewSkillTrait1>
@@ -24604,7 +24604,7 @@
 		<bMedical>0</bMedical>
 		<bMechanical>0</bMechanical>
 		<bExpLevel>0</bExpLevel>
-		<bEvolution>0</bEvolution>
+		<fRegresses>0</fRegresses>
 		<bOldSkillTrait>0</bOldSkillTrait>
 		<bOldSkillTrait2>0</bOldSkillTrait2>
 		<bNewSkillTrait1>0</bNewSkillTrait1>
