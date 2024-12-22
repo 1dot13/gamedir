@@ -13567,7 +13567,7 @@
 		<uiIndex>470</uiIndex>
 		<szItemName>7.62x51mm Belt T</szItemName>
 		<szLongItemName>7.62x51mm Belt, Tracer</szLongItemName>
-		<szItemDesc>This belt of 7.62 NATO tracer will up the accuracy of your squad's force multiplier.</szItemDesc>
+		<szItemDesc>This belt has 100 rounds of 7.62 NATO tracer ammo, which certainly will up the accuracy of your squad's force multiplier.</szItemDesc>
 		<szBRName>7.62x51mm Belt Tracer</szBRName>
 		<szBRDesc>Tracer ammo, because seeing where your shots are going is just really damn cool.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -13595,7 +13595,7 @@
 		<uiIndex>471</uiIndex>
 		<szItemName>7.62x51mm Belt M</szItemName>
 		<szLongItemName>7.62x51mm Belt, Match</szLongItemName>
-		<szItemDesc>Extended range and extended feed are just what your LMG or SAW needs.</szItemDesc>
+		<szItemDesc>Extended range and extended feed are just what your LMG or SAW needs. 100 rounds of 7.62x51mm match ammo.</szItemDesc>
 		<szBRName>7.62x51mm Belt Match</szBRName>
 		<szBRDesc>Belt out some classic rock n' roll, louder and longer, with a belt of match quality ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -13621,7 +13621,7 @@
 		<uiIndex>472</uiIndex>
 		<szItemName>7.62x51mm Belt HP C</szItemName>
 		<szLongItemName>7.62x51mm Belt, HP Cold</szLongItemName>
-		<szItemDesc>A belt load of quieter than normal hollow point 7.62x51mm.</szItemDesc>
+		<szItemDesc>A belt load of quieter than normal hollow point 7.62x51mm, 100 rounds of HP cold ammo.</szItemDesc>
 		<szBRName>7.62x51mm Belt HP Cold</szBRName>
 		<szBRDesc>This reduced noise ammo makes it much more difficult to pinpoint your LMG.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -13647,7 +13647,7 @@
 		<uiIndex>473</uiIndex>
 		<szItemName>7.62x51mm Belt C</szItemName>
 		<szLongItemName>7.62x51mm Belt, Cold</szLongItemName>
-		<szItemDesc>One belt of oh-so-quiet 7.62x51mm.</szItemDesc>
+		<szItemDesc>One belt of oh-so-quiet 7.62x51mm. 100 rounds of cold ammo.</szItemDesc>
 		<szBRName>7.62x51mm Belt Cold</szBRName>
 		<szBRDesc>Less noise, less stopping power, but this ammo still ensures a decent body count.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -14844,11 +14844,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>520</uiIndex>
-		<szItemName>7.62x54R Box AP</szItemName>
+		<szItemName>7.62x54R Belt AP</szItemName>
 		<szLongItemName>7.62x54R Box, AP</szLongItemName>
-		<szItemDesc>200 round box of 7.62x54 full metal jacket ammo.</szItemDesc>
+		<szItemDesc>200 round belt of 7.62x54 full metal jacket ammo.</szItemDesc>
 		<szBRName>7.62x54R Box AP</szBRName>
-		<szBRDesc>Crack open a box of 7.62x54R when its time to reload the squad PKM.</szBRDesc>
+		<szBRDesc>Crack open a b of 7.62x54R when its time to reload the squad PKM.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>453</ubClassIndex>
@@ -14869,11 +14869,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>521</uiIndex>
-		<szItemName>7.62x54R Box T</szItemName>
-		<szLongItemName>7.62x54R Box, Tracer</szLongItemName>
-		<szItemDesc>7.62x54R tracer rounds aid accurate burst fire.</szItemDesc>
-		<szBRName>7.62x54R Box Tracer</szBRName>
-		<szBRDesc>Adjusting automatic fire is an easy task with tracer ammo.</szBRDesc>
+		<szItemName>7.62x54R Belt T</szItemName>
+		<szLongItemName>7.62x54R Belt, Tracer</szLongItemName>
+		<szItemDesc>200 round belt of 7.62x54R tracer rounds aid accurate burst fire.</szItemDesc>
+		<szBRName>7.62x54R Belt Tracer</szBRName>
+		<szBRDesc>Adjusting automatic fire is an easy task with tracer ammo. 200 round belt of tracer ammo.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>454</ubClassIndex>
@@ -29305,10 +29305,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>938</uiIndex>
-		<szItemName>7.62x54R Box M</szItemName>
-		<szLongItemName>7.62x54R Box Match</szLongItemName>
-		<szItemDesc>200 round box of 7.62x54 sniper ammo.</szItemDesc>
-		<szBRName>7.62x54R Box Match</szBRName>
+		<szItemName>7.62x54R Belt M</szItemName>
+		<szLongItemName>7.62x54R Belt Match</szLongItemName>
+		<szItemDesc>200 round belt of 7.62x54R match ammo.</szItemDesc>
+		<szBRName>7.62x54R Belt Match</szBRName>
 		<szBRDesc>Not available at BR</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -38001,6 +38001,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -38025,6 +38026,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -38050,6 +38052,7 @@
 		<RangeBonus>120</RangeBonus>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38075,6 +38078,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38103,6 +38107,7 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38129,6 +38134,7 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38155,6 +38161,7 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38180,6 +38187,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -38204,6 +38212,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -38229,6 +38238,7 @@
 		<RangeBonus>120</RangeBonus>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38254,6 +38264,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38282,6 +38293,7 @@
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38308,6 +38320,7 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -38334,6 +38347,7 @@
 		<PercentNoiseReduction>40</PercentNoiseReduction>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -39288,6 +39302,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -39313,6 +39328,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -40374,6 +40390,7 @@
 		<RangeBonus>120</RangeBonus>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Ammobelt>1</Ammobelt>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -44927,7 +44944,7 @@
 		<uiIndex>1477</uiIndex>
 		<szItemName>7.62x54R Box AP</szItemName>
 		<szLongItemName>7.62x54R Box, AP</szLongItemName>
-		<szItemDesc>Long range penetrating power, for the 7.62x54R chambered weapon in your collection.</szItemDesc>
+		<szItemDesc>Long range penetrating power, for the 7.62x54R chambered weapon in your collection. This box contains 50 rounds.</szItemDesc>
 		<szBRName>7.62x54R Box AP</szBRName>
 		<szBRDesc>Long range penetrating power, for the 7.62x54R chambered weapon in your collection. This box contains 50 rounds.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -44941,7 +44958,6 @@
 		<ubCoolness>5</ubCoolness>
 		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
-		<Ammobelt>1</Ammobelt>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -44953,9 +44969,9 @@
 		<uiIndex>1478</uiIndex>
 		<szItemName>7.62x54R Box T</szItemName>
 		<szLongItemName>7.62x54R Box, Tracer</szLongItemName>
-		<szItemDesc>Ranging and shot placement are easy with these rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szItemDesc>
+		<szItemDesc>Ranging and shot placement are easy with these rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes. This box contains 50 rounds of tracer ammunition.</szItemDesc>
 		<szBRName>7.62x54R Box Tracer</szBRName>
-		<szBRDesc>Ranging and shot placement are easy with these rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szBRDesc>
+		<szBRDesc>Ranging and shot placement are easy with these 50 rounds of 7.62 Russian tracer. Tracer ammo adds a bonus to hit in burst and full-auto modes.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>451</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
@@ -44970,7 +44986,6 @@
 		<AutoFireToHitBonus>6</AutoFireToHitBonus>
 		<BurstToHitBonus>2</BurstToHitBonus>
 		<BulletSpeedBonus>-10</BulletSpeedBonus>
-		<Ammobelt>1</Ammobelt>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
@@ -44982,7 +44997,7 @@
 		<uiIndex>1479</uiIndex>
 		<szItemName>7.62x54R Box M</szItemName>
 		<szLongItemName>7.62x54R Box, Match</szLongItemName>
-		<szItemDesc>7.62x54R Match ammunition.</szItemDesc>
+		<szItemDesc>7.62x54R Match ammunition, 50 rounds.</szItemDesc>
 		<szBRName>7.62x54R Box Match</szBRName>
 		<szBRDesc>Long range penetrating power for the 7.62x54R chambered weapon in your collection. This box contains 50 rounds of match ammunition.</szBRDesc>
 		<usItemClass>1024</usItemClass>
@@ -44997,7 +45012,6 @@
 		<BR_NewInventory>2</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<RangeBonus>120</RangeBonus>
-		<Ammobelt>1</Ammobelt>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<BigGunList>1</BigGunList>
