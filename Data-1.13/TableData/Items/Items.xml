@@ -576,17 +576,14 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
+        <DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -1112,7 +1109,7 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>33</DirtIncreaseFactor>
 		<DamageChance>10</DamageChance>
-		<DefaultAttachment>209</DefaultAttachment>
+		<DefaultAttachment>1325</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -1950,6 +1947,7 @@
 		<TransportGroupMaxProgress>50</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<AttachmentSystem>1</AttachmentSystem>		
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -2107,6 +2105,7 @@
 		<TransportGroupMinProgress>50</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<DefaultAttachment>1749</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -2118,11 +2117,7 @@
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -2318,9 +2313,9 @@
 		<uiIndex>63</uiIndex>
 		<szItemName>Flamethrower</szItemName>
 		<szLongItemName>Flamethrower</szLongItemName>
-		<szItemDesc>Sorry guys, but this item didn't make it into the game!</szItemDesc>
+		<szItemDesc>A portable flamethrower that uses highly flammable napalm as fuel. Perhaps not the most reliable weapon on the market, but certainly a fearsome and devastating one.</szItemDesc>
 		<szBRName>Flamethrower</szBRName>
-		<szBRDesc>Not for sale through BR.</szBRDesc>
+		<szBRDesc>Burn baby, burn. (Not sold at BR)</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>63</ubClassIndex>
@@ -2329,10 +2324,18 @@
 		<ubWeight>27</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3582</usPrice>
+		<ubCoolness>9</ubCoolness>
+		<bReliability>-2</bReliability>
+		<bRepairEase>-2</bRepairEase>
+		<CamoBonus>-1</CamoBonus>
+		<DesertCamoBonus>-1</DesertCamoBonus>
+		<SnowCamoBonus>-1</SnowCamoBonus>
+		<StealthBonus>-1</StealthBonus>	
 		<BR_ROF>20</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>25</DirtIncreaseFactor>
-		<DamageChance>14</DamageChance>
+		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -2340,6 +2343,10 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
+		<AttachmentSystem>2</AttachmentSystem>
+		<NewInv>1</NewInv>		
+		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>		
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -2412,6 +2419,7 @@
 		<TransportGroupMinProgress>60</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<DefaultAttachment>1749</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -2423,11 +2431,7 @@
 		<RocketRifle>1</RocketRifle>
 		<FingerPrintID>1</FingerPrintID>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -2556,6 +2560,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1749</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -2563,11 +2568,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -3659,11 +3660,18 @@
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>21</ItemSize>
 		<usPrice>750</usPrice>
-		<BR_NewInventory>3</BR_NewInventory>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<Damageable>1</Damageable>
+		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<ContainsLiquid>1</ContainsLiquid>
+		<ShowStatus>1</ShowStatus>
+		<AttachmentSystem>2</AttachmentSystem>
+		<NewInv>1</NewInv>		
 		<BigGunList>1</BigGunList>
+		<SciFi>1</SciFi>			
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -9555,7 +9563,9 @@
 		<szBRName>Batteries</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>1</nasAttachmentClass>
+		<nasAttachmentClass>16384</nasAttachmentClass>
+		<AttachmentPoint>16</AttachmentPoint>
+		<AttachToPointAPCost>15</AttachToPointAPCost>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>26</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -9565,6 +9575,7 @@
 		<ubCoolness>1</ubCoolness>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
+		<WaterDamages>1</WaterDamages>		
 		<Attachment>1</Attachment>
 		<Batteries>1</Batteries>
 		<STAND_MODIFIERS />
@@ -9602,6 +9613,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			
 		<ubCursor>17</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>125</ubGraphicNum>
@@ -9612,7 +9624,9 @@
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>			
 		<Metal>1</Metal>
+		<Sinks>1</Sinks>		
 		<NotBuyable>1</NotBuyable>
 		<Electronic>1</Electronic>
 		<NeedsBatteries>1</NeedsBatteries>
@@ -9770,7 +9784,11 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>30</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -18065,6 +18083,7 @@
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -18541,6 +18560,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -18548,11 +18568,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -19718,7 +19734,11 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS />
+		<STAND_MODIFIERS>
+			<PercentHandling>-10</PercentHandling>
+			<PercentMaxCounterForce>30</PercentMaxCounterForce>
+			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
+		</STAND_MODIFIERS>
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -20244,6 +20264,7 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<TransportGroupMinProgress>60</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
@@ -20256,11 +20277,7 @@
 		<Electronic>1</Electronic>
 		<FingerPrintID>1</FingerPrintID>
 		<SciFi>1</SciFi>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -20468,6 +20485,7 @@
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -21852,6 +21870,7 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1323</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -21859,11 +21878,7 @@
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -21894,6 +21909,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -21902,11 +21918,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -22124,6 +22136,7 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -22132,11 +22145,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -22272,7 +22281,7 @@
 		<BR_ROF>360</BR_ROF>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<DirtIncreaseFactor>20</DirtIncreaseFactor>
-		<DamageChance>10</DamageChance>
+		<DamageChance>10</DamageChance>	
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -25098,7 +25107,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>70</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>218</ubGraphicNum>
+		<ubGraphicNum>922</ubGraphicNum>
 		<ubWeight>35</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>1800</usPrice>
@@ -25140,7 +25149,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>71</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>219</ubGraphicNum>
+		<ubGraphicNum>923</ubGraphicNum>
 		<ubWeight>48</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>2600</usPrice>
@@ -25178,7 +25187,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>72</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>220</ubGraphicNum>
+		<ubGraphicNum>924</ubGraphicNum>
 		<ubWeight>65</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>4200</usPrice>
@@ -25222,7 +25231,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>73</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>193</ubGraphicNum>
+		<ubGraphicNum>925</ubGraphicNum>
 		<ubWeight>14</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>800</usPrice>
@@ -25262,7 +25271,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>74</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>195</ubGraphicNum>
+		<ubGraphicNum>926</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>25</ItemSize>
 		<usPrice>1500</usPrice>
@@ -25298,7 +25307,7 @@
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>75</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>194</ubGraphicNum>
+		<ubGraphicNum>927</ubGraphicNum>
 		<ubWeight>36</ubWeight>
 		<ItemSize>25</ItemSize>
 		<usPrice>1900</usPrice>
@@ -25578,8 +25587,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>82</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>218</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>246</ubGraphicNum>
 		<ubWeight>35</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>2000</usPrice>
@@ -25621,8 +25630,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>83</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>219</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>247</ubGraphicNum>
 		<ubWeight>48</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>2800</usPrice>
@@ -25660,8 +25669,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>84</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>220</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>248</ubGraphicNum>
 		<ubWeight>51</ubWeight>
 		<ItemSize>26</ItemSize>
 		<usPrice>4400</usPrice>
@@ -25705,8 +25714,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>193</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>249</ubGraphicNum>
 		<ubWeight>14</ubWeight>
 		<ItemSize>22</ItemSize>
 		<usPrice>900</usPrice>
@@ -25744,8 +25753,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>195</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>250</ubGraphicNum>
 		<ubWeight>39</ubWeight>
 		<ItemSize>25</ItemSize>
 		<usPrice>1700</usPrice>
@@ -25775,8 +25784,8 @@
 		<usItemClass>2048</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>87</ubClassIndex>
-		<ubGraphicType>1</ubGraphicType>
-		<ubGraphicNum>194</ubGraphicNum>
+		<ubGraphicType>2</ubGraphicType>
+		<ubGraphicNum>251</ubGraphicNum>
 		<ubWeight>36</ubWeight>
 		<ItemSize>25</ItemSize>
 		<usPrice>2000</usPrice>
@@ -28420,10 +28429,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>909</uiIndex>
-		<szItemName>AICW Launcher</szItemName>
-		<szLongItemName>AICW Grenade Launcher</szLongItemName>
+		<szItemName>AICW Launcher (built-in)</szItemName>
+		<szLongItemName>AICW Grenade Launcher (built-in)</szLongItemName>
 		<szItemDesc>Operating like a computer-triggered Roman candle, Metal Storm's grenade system is perhaps the lightest and least bulky complete multi-shot launcher around.</szItemDesc>
-		<szBRName>AICW Grenade Launcher</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>The AICW comes with an integrated 40mm grenade launcher.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -28449,6 +28458,7 @@
 		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<NotInEditor>1</NotInEditor>
+		<NotBuyable>1</NotBuyable>		
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
@@ -28457,10 +28467,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>910</uiIndex>
-		<szItemName>F2000 Launcher</szItemName>
-		<szLongItemName>F2000 Grenade Launcher</szLongItemName>
+		<szItemName>F2000 Launcher (built-in)</szItemName>
+		<szLongItemName>F2000 Grenade Launcher (built-in)</szLongItemName>
 		<szItemDesc>The FN F2000 comes with an integrated 40mm grenade launcher.</szItemDesc>
-		<szBRName>F2000 Grenade Launcher</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>The FN F2000 comes with an integrated 40mm grenade launcher.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -28485,6 +28495,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<NotInEditor>1</NotInEditor>
+		<NotBuyable>1</NotBuyable>		
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -28492,10 +28503,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>911</uiIndex>
-		<szItemName>GP-25 Launcher</szItemName>
+		<szItemName>GP-25 Launcher (built-in)</szItemName>
 		<szLongItemName>GP-25 Kostyor Grenade Launcher (Built-in)</szLongItemName>
 		<szItemDesc>This model of the Groza comes with an integrated 40mm GP-25 grenade launcher. The GP-25 Kostyor fires 40mm VOG-25 and VOG-25P grenades.</szItemDesc>
-		<szBRName>GP-25 Grenade Launcher (Built-in)</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>This model of the Groza comes with an integrated 40mm GP-25 Kostyor grenade launcher.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -28520,6 +28531,7 @@
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<NotInEditor>1</NotInEditor>
+		<NotBuyable>1</NotBuyable>		
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -28527,10 +28539,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>912</uiIndex>
-		<szItemName>OICW Launcher</szItemName>
-		<szLongItemName>OICW Grenade Launcher</szLongItemName>
+		<szItemName>OICW Launcher (built-in)</szItemName>
+		<szLongItemName>OICW Grenade Launcher (built-in)</szLongItemName>
 		<szItemDesc>The XM-29 OICW comes with an integrated 20mm grenade launcher.</szItemDesc>
-		<szBRName>OICW Grenade Launcher</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>The XM-29 OICW comes with an integrated 20mm grenade launcher.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasAttachmentClass>512</nasAttachmentClass>
@@ -28556,6 +28568,7 @@
 		<HiddenAttachment>1</HiddenAttachment>
 		<BigGunList>1</BigGunList>
 		<NotInEditor>1</NotInEditor>
+		<NotBuyable>1</NotBuyable>		
 		<GrenadeLauncher>1</GrenadeLauncher>
 		<SciFi>1</SciFi>
 		<STAND_MODIFIERS />
@@ -29666,12 +29679,13 @@
 		<uiIndex>950</uiIndex>
 		<szItemName>LAM-Flashlight</szItemName>
 		<szLongItemName>Rifle LAM-Flashlight Combo</szLongItemName>
-		<szItemDesc>This laser aiming module and tactical flashlight combination is meant to fit on modern rifle rail interface systems.</szItemDesc>
+		<szItemDesc>This laser aiming module and tactical flashlight combination is meant to fit on modern rifle rail interface systems. Flashlight is currently OFF.</szItemDesc>
 		<szBRName>Rifle LAM-Flashlight</szBRName>
 		<szBRDesc>This laser aiming module and tactical flashlight combination is meant to fit on modern rifle rail interface systems.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			
 		<ubGraphicNum>341</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
@@ -29694,9 +29708,11 @@
 		<StealthBonus>-15</StealthBonus>
 		<TransportGroupMinProgress>30</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
-		<Damageable>1</Damageable>
+		<Damageable>1</Damageable>		
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>		
 		<Metal>1</Metal>
+		<Sinks>1</Sinks>		
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
@@ -30719,7 +30735,7 @@
 	<ITEM>
 		<uiIndex>983</uiIndex>
 		<szItemName>40mm MS Frag</szItemName>
-		<szLongItemName>40mm Metal Storm HE</szLongItemName>
+		<szLongItemName>40mm Metal Storm HE, 3</szLongItemName>
 		<szItemDesc>Three rounds of high explosive (HE) death, configured for the AICW's hi-tech integrated launcher.</szItemDesc>
 		<szBRName>40mm Metal Storm HE</szBRName>
 		<szBRDesc>Take some load off the team grenadier with Metal Storm's 40mm multi shot grenade system. Three rounds of high explosive (HE) death, configured for the AICW's hi-tech integrated launcher.</szBRDesc>
@@ -30752,7 +30768,7 @@
 	<ITEM>
 		<uiIndex>984</uiIndex>
 		<szItemName>40mm MS Tear Gas</szItemName>
-		<szLongItemName>40mm Metal Storm Tear Gas</szLongItemName>
+		<szLongItemName>40mm Metal Storm Tear Gas, 3</szLongItemName>
 		<szItemDesc>Intended for riot control, we're sure you'll find some other use for this 3 round stack of 40mm tear gas.</szItemDesc>
 		<szBRName>40mm Metal Storm Tear Gas</szBRName>
 		<szBRDesc>Take some load off the team grenadier with Metal Storm's 40mm multi shot grenade system. Three rounds of tear gas should be enough to quickly pacify any threat</szBRDesc>
@@ -30784,7 +30800,7 @@
 	<ITEM>
 		<uiIndex>985</uiIndex>
 		<szItemName>40mm MS Smoke</szItemName>
-		<szLongItemName>40mm Metal Storm Smoke</szLongItemName>
+		<szLongItemName>40mm Metal Storm Smoke, 3</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm smoke, best used for covering infiltrations and extractions.</szItemDesc>
 		<szBRName>40mm Metal Storm Smoke</szBRName>
 		<szBRDesc>Quickly lay down a long wall of blinding smoke with a three-round stack of 40mm smoke grenades.</szBRDesc>
@@ -30816,7 +30832,7 @@
 	<ITEM>
 		<uiIndex>986</uiIndex>
 		<szItemName>40mm MS Mustard Gas</szItemName>
-		<szLongItemName>40mm Metal Storm Mustard Gas</szLongItemName>
+		<szLongItemName>40mm Metal Storm Mustard Gas, 3</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm mustard gas. Caution: Check wind before use.</szItemDesc>
 		<szBRName>40mm Metal Storm Mustard Gas</szBRName>
 		<szBRDesc>These things shouldn't exist, but here we have a three-round stack of 40mm grenades containing what appears to be mustard gas. Where in the world we got them from, we won't tell.</szBRDesc>
@@ -30848,7 +30864,7 @@
 	<ITEM>
 		<uiIndex>987</uiIndex>
 		<szItemName>40mm MS Thermobaric</szItemName>
-		<szLongItemName>40mm Metal Storm Thermobaric</szLongItemName>
+		<szLongItemName>40mm Metal Storm Thermobaric, 3</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm thermobaric grenades. Caution: Check range before use.</szItemDesc>
 		<szBRName>40mm Metal Storm Thermobaric</szBRName>
 		<szBRDesc>Overpressure and heat, instead of shrapnel, is the prime killing effect of thermobaric explosives. This new way of clearing large areas is packaged for the new Metal Storm 40mm multi-shot grenade launcher, attached to the AICW.</szBRDesc>
@@ -30880,7 +30896,7 @@
 	<ITEM>
 		<uiIndex>988</uiIndex>
 		<szItemName>40mm MS Stun</szItemName>
-		<szLongItemName>40mm Metal Storm Stun</szLongItemName>
+		<szLongItemName>40mm Metal Storm Stun, 3</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm stun grenades. For those times when you need the target down, but alive.</szItemDesc>
 		<szBRName>40mm Metal Storm Stun</szBRName>
 		<szBRDesc>Knock the wind out of any line of infantry with this compact 3 round stack of stun grenades, made possible by Metal Storm's patented electronic firing system. Caution: these are only stun weapons, they only buy time.</szBRDesc>
@@ -31031,7 +31047,7 @@
 	<ITEM>
 		<uiIndex>993</uiIndex>
 		<szItemName>40mm MS Napalm</szItemName>
-		<szLongItemName>40mm Metal Storm Napalm</szLongItemName>
+		<szLongItemName>40mm Metal Storm Napalm, 3</szLongItemName>
 		<szItemDesc>This stack contains 3 rounds of 40mm napalm. Caution: Check range before use.</szItemDesc>
 		<szBRName>40mm Metal Storm Napalm</szBRName>
 		<szBRDesc>This super hot way of clearing a large area is packaged inside the new Metal Storm 40mm multi-shot grenade stack for the AICW.</szBRDesc>
@@ -31256,7 +31272,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
@@ -31301,7 +31316,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<STAND_MODIFIERS>
 			<AimLevels>2</AimLevels>
@@ -31446,13 +31460,11 @@
 		<DayVisionRangeBonus>20</DayVisionRangeBonus>
 		<BrightLightVisionRangeBonus>20</BrightLightVisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
-		<AttachmentSystem>1</AttachmentSystem>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<BlockIronSight>1</BlockIronSight>
 		<STAND_MODIFIERS />
@@ -31576,7 +31588,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<BlockIronSight>1</BlockIronSight>
 		<STAND_MODIFIERS>
 			<AimLevels>2</AimLevels>
@@ -31586,7 +31597,7 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1008</uiIndex>
-		<szItemName>Folding Stock</szItemName>
+		<szItemName>Folding Stock</szItemName><!-- pairs with item 1745 -->
 		<szLongItemName>Folding Stock</szLongItemName>
 		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
 		<szBRName>Folding Stock</szBRName>
@@ -31618,14 +31629,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1009</uiIndex>
-		<szItemName>Retractable Stock</szItemName>
+		<szItemName>Retractable Stock</szItemName><!-- pairs with item 1748 -->
 		<szLongItemName>Retractable Stock</szLongItemName>
 		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
 		<szBRName>Retractable Stock</szBRName>
 		<szBRDesc>Get your weapon up before the other guy does, with this new retractable stock. Usable with most fixed stock firearms.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>	
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>916</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -32229,7 +32240,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -32269,7 +32279,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<BlockIronSight>1</BlockIronSight>
 		<STAND_MODIFIERS>
@@ -33321,6 +33330,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -33329,12 +33339,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-			<AimLevels>1</AimLevels>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -33468,6 +33473,7 @@
 		<AutoFireToHitBonus>5</AutoFireToHitBonus>
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -33476,11 +33482,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -36975,6 +36977,7 @@
 		<BurstToHitBonus>5</BurstToHitBonus>
 		<DamageChance>10</DamageChance>
 		<DefaultAttachment>1746</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>		
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -36983,11 +36986,7 @@
 		<ShowStatus>1</ShowStatus>
 		<TwoHanded>1</TwoHanded>
 		<BigGunList>1</BigGunList>
-		<STAND_MODIFIERS>
-			<PercentHandling>-10</PercentHandling>
-			<PercentMaxCounterForce>30</PercentMaxCounterForce>
-			<PercentCounterForceAccuracy>30</PercentCounterForceAccuracy>
-		</STAND_MODIFIERS>
+		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
 	</ITEM>
@@ -37102,7 +37101,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
 			<AimLevels>2</AimLevels>
 		</STAND_MODIFIERS>
@@ -37142,7 +37140,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
 		</STAND_MODIFIERS>
@@ -37182,7 +37179,6 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
 			<AimLevels>1</AimLevels>
 		</STAND_MODIFIERS>
@@ -37477,7 +37473,7 @@
 		<DamageChance>10</DamageChance>
 		<TransportGroupMinProgress>50</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>80</TransportGroupMaxProgress>
-		<DefaultAttachment>1011</DefaultAttachment>
+		<DefaultAttachment>1323</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
 		<WaterDamages>1</WaterDamages>
@@ -40889,7 +40885,6 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Attachment>1</Attachment>
-		<BigGunList>1</BigGunList>
 		<NotInEditor>1</NotInEditor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
@@ -41179,6 +41174,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1749</DefaultAttachment>		
 		<TransportGroupMinProgress>30</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
@@ -41220,6 +41216,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1749</DefaultAttachment>		
 		<TransportGroupMinProgress>30</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
@@ -41262,6 +41259,7 @@
 		<ToHitBonus>-1</ToHitBonus>
 		<PercentReadyTimeAPReduction>30</PercentReadyTimeAPReduction>
 		<DamageChance>10</DamageChance>
+		<DefaultAttachment>1749</DefaultAttachment>
 		<TransportGroupMinProgress>30</TransportGroupMinProgress>
 		<TransportGroupMaxProgress>60</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
@@ -41921,9 +41919,11 @@
 		<ubWeight>10</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>22</ItemSize>
-		<usPrice>25</usPrice>
+		<usPrice>35</usPrice>
 		<ubCoolness>1</ubCoolness>
+		<FoodType>1</FoodType>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
+		<usPortionSize>20</usPortionSize>
 		<Damageable>1</Damageable>
 		<Attachment>1</Attachment>
 		<Canteen>1</Canteen>
@@ -41972,7 +41972,7 @@
 		<ubGraphicNum>84</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
-		<ItemSize>5</ItemSize>
+		<ItemSize>24</ItemSize>
 		<usPrice>20</usPrice>
 		<ubCoolness>2</ubCoolness>
 		<bReliability>-1</bReliability>
@@ -41983,6 +41983,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<Covert>1</Covert>
 		<ShowStatus>1</ShowStatus>
 		<Unaerodynamic>1</Unaerodynamic>
 		<STAND_MODIFIERS />
@@ -46140,7 +46141,7 @@
 		<bRepairEase>-4</bRepairEase>
 		<BR_NewInventory>4</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
-		<usActionItemFlag>256</usActionItemFlag>
+		<usActionItemFlag>256</usActionItemFlag><!-- NORTH -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -46156,10 +46157,10 @@
 	<ITEM>
 		<uiIndex>1524</uiIndex>
 		<szItemName>Tripwire</szItemName>
-		<szLongItemName>Tripwire</szLongItemName>
+		<szLongItemName>Tripwire (standard)</szLongItemName>
 		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
 		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szBRDesc>Standard tripwire for mines and more. Only 10 bucks per meter, just this week!</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -46173,7 +46174,7 @@
 		<ubCoolness>3</ubCoolness>
 		<BR_NewInventory>40</BR_NewInventory>
 		<BR_UsedInventory>25</BR_UsedInventory>
-		<usActionItemFlag>17</usActionItemFlag>
+		<usActionItemFlag>17</usActionItemFlag><!-- NET 1 / LVL 1 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -47712,8 +47713,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb in MapEditor or part of enemy tripwire network. If found and disarmed, it can be transformed back to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47724,9 +47725,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>512</usActionItemFlag>
+		<usActionItemFlag>512</usActionItemFlag><!-- NORTHEAST -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47744,8 +47746,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47756,9 +47758,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>1024</usActionItemFlag>
+		<usActionItemFlag>1024</usActionItemFlag><!-- EAST -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47776,8 +47779,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47788,9 +47791,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>2048</usActionItemFlag>
+		<usActionItemFlag>2048</usActionItemFlag><!-- SOUTHEAST -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47808,8 +47812,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47820,9 +47824,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>4096</usActionItemFlag>
+		<usActionItemFlag>4096</usActionItemFlag><!-- SOUTH -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47840,8 +47845,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47852,9 +47857,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>8192</usActionItemFlag>
+		<usActionItemFlag>8192</usActionItemFlag><!-- SOUTHWEST -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47872,8 +47878,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47884,9 +47890,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>16384</usActionItemFlag>
+		<usActionItemFlag>16384</usActionItemFlag><!-- WEST -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47904,8 +47911,8 @@
 		<szItemName>M18 Claymore</szItemName>
 		<szLongItemName>M18 Claymore</szLongItemName>
 		<szItemDesc>The M18 Claymore directional mine can be triggered by a remote detonator, by a tripwire or simply be used as a mine. 700 steel balls will be fired in a 60 degree arc, maximum height of 2 m. Tip: Front towards enemy.</szItemDesc>
-		<szBRName>M18 Claymore</szBRName>
-		<szBRDesc>Lay ambushes with networks of tripwire and these babies. Can also be activated remotely. We accept no responsibility for casualties caused by setting it up the wrong way.</szBRDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal to place as directional bomb or part of enemy tripwire network. If found and disarmed, it can be restored to standard claymore.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>85</ubClassIndex>
@@ -47916,9 +47923,10 @@
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>17</ItemSize>
 		<usPrice>1250</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>-4</bRepairEase>
-		<usActionItemFlag>32768</usActionItemFlag>
+		<usActionItemFlag>32768</usActionItemFlag><!-- NORTHWEST-->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
@@ -47935,9 +47943,9 @@
 		<uiIndex>1591</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -47948,8 +47956,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>33</usActionItemFlag>
+		<usActionItemFlag>33</usActionItemFlag><!-- NET 1 / LVL 2 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -47965,9 +47974,9 @@
 		<uiIndex>1592</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -47978,8 +47987,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>65</usActionItemFlag>
+		<usActionItemFlag>65</usActionItemFlag><!-- NET 1 / LVL 3 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -47995,9 +48005,9 @@
 		<uiIndex>1593</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48008,8 +48018,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>129</usActionItemFlag>
+		<usActionItemFlag>129</usActionItemFlag><!-- NET 1 / LVL 4 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48025,9 +48036,9 @@
 		<uiIndex>1594</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48038,8 +48049,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>18</usActionItemFlag>
+		<usActionItemFlag>18</usActionItemFlag><!-- NET 2 / LVL 1 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48055,9 +48067,9 @@
 		<uiIndex>1595</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48068,8 +48080,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>34</usActionItemFlag>
+		<usActionItemFlag>34</usActionItemFlag><!-- NET 2 / LVL 2 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48085,9 +48098,9 @@
 		<uiIndex>1596</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48098,8 +48111,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>66</usActionItemFlag>
+		<usActionItemFlag>66</usActionItemFlag><!-- NET 2 / LVL 3 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48115,9 +48129,9 @@
 		<uiIndex>1597</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48128,8 +48142,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>130</usActionItemFlag>
+		<usActionItemFlag>130</usActionItemFlag><!-- NET 2 / LVL 4 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48145,9 +48160,9 @@
 		<uiIndex>1598</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48158,8 +48173,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>20</usActionItemFlag>
+		<usActionItemFlag>20</usActionItemFlag><!-- NET 3 / LVL 1 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48175,9 +48191,9 @@
 		<uiIndex>1599</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48188,8 +48204,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>36</usActionItemFlag>
+		<usActionItemFlag>36</usActionItemFlag><!-- NET 3 / LVL 2 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48205,9 +48222,9 @@
 		<uiIndex>1600</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48218,8 +48235,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>68</usActionItemFlag>
+		<usActionItemFlag>68</usActionItemFlag><!-- NET 3 / LVL 3 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48235,9 +48253,9 @@
 		<uiIndex>1601</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48248,8 +48266,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>132</usActionItemFlag>
+		<usActionItemFlag>132</usActionItemFlag><!-- NET 3 / LVL 4 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48265,9 +48284,9 @@
 		<uiIndex>1602</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48278,8 +48297,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>24</usActionItemFlag>
+		<usActionItemFlag>24</usActionItemFlag><!-- NET 4 / LVL 1 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48295,9 +48315,9 @@
 		<uiIndex>1603</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48308,8 +48328,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>40</usActionItemFlag>
+		<usActionItemFlag>40</usActionItemFlag><!-- NET 4 / LVL 2 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48325,9 +48346,9 @@
 		<uiIndex>1604</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48338,8 +48359,9 @@
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
 		<usPrice>10</usPrice>
+		<NotBuyable>1</NotBuyable>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>72</usActionItemFlag>
+		<usActionItemFlag>72</usActionItemFlag><!-- NET 4 / LVL 3 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48355,9 +48377,9 @@
 		<uiIndex>1605</uiIndex>
 		<szItemName>Tripwire</szItemName>
 		<szLongItemName>Tripwire</szLongItemName>
-		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. You know you want to.</szItemDesc>
-		<szBRName>Tripwire</szBRName>
-		<szBRDesc>Tripwire for mines. Only 10 bucks per meter, just this week!</szBRDesc>
+		<szItemDesc>If you want to build intricate, complex systems of mines, you'll need tripwire to connect your devices. Restore after use to enable full functionality again.</szItemDesc>
+		<szBRName>Not for sale.</szBRName>
+		<szBRDesc>Used internal when laying tripwire networks, but may found as (leftover) item of such networks. If found, it can be restored to standard tripwire.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>86</ubClassIndex>
@@ -48367,9 +48389,10 @@
 		<ubWeight>1</ubWeight>
 		<ubPerPocket>8</ubPerPocket>
 		<ItemSize>10</ItemSize>
+		<NotBuyable>1</NotBuyable>
 		<usPrice>10</usPrice>
 		<ubCoolness>3</ubCoolness>
-		<usActionItemFlag>136</usActionItemFlag>
+		<usActionItemFlag>136</usActionItemFlag><!-- NET 4 / LVL 4 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<Damageable>1</Damageable>
 		<Metal>1</Metal>
@@ -48894,9 +48917,10 @@
 		<szLongItemName>Stun Gun</szLongItemName>
 		<szItemDesc>If used correctly, this stun gun will hit anyone it touches with over 2 million volts. In case you find yourself in need of a drooling, helpless victim.</szItemDesc>
 		<szBRName>Stun Gun</szBRName>
-		<szBRDesc>At 2 million volts, this baby will leave even the sturdiest men twitching helplessly on the floor. Batteries not included!</szBRDesc>
+		<szBRDesc>At 2 million volts, this baby will leave even the sturdiest men twitching helplessly on the floor. Batteries included!</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			
 		<ubClassIndex>49</ubClassIndex>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
@@ -48916,6 +48940,7 @@
 		<Taser>1</Taser>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>		
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -49142,12 +49167,13 @@
 		<uiIndex>1635</uiIndex>
 		<szItemName>LAM-Flashlight</szItemName>
 		<szLongItemName>Rifle LAM-Flashlight Combo</szLongItemName>
-		<szItemDesc>This laser aiming module and tactical flashlight combination is meant to fit on modern rifle rail interface systems. Flashlight is ON.</szItemDesc>
+		<szItemDesc>This laser aiming module and tactical flashlight combination is meant to fit on modern rifle rail interface systems. Flashlight is currently ON.</szItemDesc>
 		<szBRName>Rifle LAM-Flashlight</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>				
 		<ubGraphicNum>341</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
@@ -49171,8 +49197,13 @@
 		<TransportGroupMaxProgress>100</TransportGroupMaxProgress>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>		
 		<Metal>1</Metal>
+		<Sinks>1</Sinks>
 		<Attachment>1</Attachment>
+		<HiddenAttachment>1</HiddenAttachment>
+		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<BigGunList>1</BigGunList>
 		<Electronic>1</Electronic>
 		<NeedsBatteries>1</NeedsBatteries>
@@ -49184,12 +49215,13 @@
 		<uiIndex>1636</uiIndex>
 		<szItemName>Flashlight</szItemName>
 		<szLongItemName>Flashlight</szLongItemName>
-		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If everything else fails, use me to knock people over the head.</szItemDesc>
+		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If everything else fails, use me to knock people over the head.Flashlight is currently OFF.</szItemDesc>
 		<szBRName>Flashlight</szBRName>
 		<szBRDesc>Let there be light! Batteries included.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1636</ubClassIndex>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>161</ubGraphicNum>
@@ -49207,6 +49239,7 @@
 		<DefaultAttachment>322</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>		
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
@@ -49221,12 +49254,13 @@
 		<uiIndex>1637</uiIndex>
 		<szItemName>Flashlight</szItemName>
 		<szLongItemName>Flashlight</szLongItemName>
-		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If everything else fails, use me to knock people over the head. Flashlight is ON.</szItemDesc>
+		<szItemDesc>I am... the light! No wait, that ain't right. I'm just a flashlight. But I'm still useful. If everything else fails, use me to knock people over the head. Flashlight is currently ON.</szItemDesc>
 		<szBRName>Flashlight</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>1637</ubClassIndex>
+		<AvailableAttachmentPoint>16</AvailableAttachmentPoint>			
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>161</ubGraphicNum>
@@ -49243,12 +49277,15 @@
 		<DefaultAttachment>322</DefaultAttachment>
 		<Damageable>1</Damageable>
 		<Repairable>1</Repairable>
+		<WaterDamages>1</WaterDamages>		
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<ShowStatus>1</ShowStatus>
 		<Electronic>1</Electronic>
 		<BrassKnuckles>1</BrassKnuckles>
 		<NeedsBatteries>1</NeedsBatteries>
+		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
 		<PRONE_MODIFIERS />
@@ -49320,7 +49357,7 @@
 		<uiIndex>1640</uiIndex>
 		<szItemName>Tripwire Roll</szItemName>
 		<szLongItemName>Tripwire Roll</szLongItemName>
-		<szItemDesc>TRipwire can be deployed directly from this roll.</szItemDesc>
+		<szItemDesc>Tripwire can be deployed directly from this roll to build intricate, complex systems of mines. Cut off the appropriate pieces for other tasks.</szItemDesc>
 		<szBRName>Tripwire Roll</szBRName>
 		<szBRDesc>A roll of tripwire. In case you need to boobytrap your house, your car, and your cat.</szBRDesc>
 		<usItemClass>512</usItemClass>
@@ -49335,7 +49372,7 @@
 		<ubCoolness>3</ubCoolness>
 		<BR_NewInventory>40</BR_NewInventory>
 		<BR_UsedInventory>25</BR_UsedInventory>
-		<usActionItemFlag>17</usActionItemFlag>
+		<usActionItemFlag>17</usActionItemFlag><!-- NET 1 / LVL 1 -->
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<buddyitem>1524</buddyitem>
 		<TripwireRoll>1</TripwireRoll>
@@ -52157,14 +52194,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1745</uiIndex>
-		<szItemName>Folding Stock (folded)</szItemName>
+		<szItemName>Folding Stock (folded)</szItemName><!-- pairs with item 1008 -->
 		<szLongItemName>Folding Stock (folded)</szLongItemName>
 		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Folding Stock</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>Get your weapon up before the other guy when you attach this new stock. Usable with most fixed-stock firearms.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>	
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>915</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -52181,6 +52218,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<NotInEditor>1</NotInEditor>		
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
@@ -52194,14 +52232,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1746</uiIndex>
-		<szItemName>Folding Stock</szItemName>
+		<szItemName>Folding Stock</szItemName><!-- pairs with item 1747 -->
 		<szLongItemName>Folding Stock</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Folding Stock</szBRName>
-		<szBRDesc>Get your weapon up before the other guy when you attach this new stock. Usable with most fixed-stock firearms.</szBRDesc>
+		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things. Built-in variation.</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Built-in variation.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>		
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>234</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -52217,6 +52255,7 @@
 		<Repairable>1</Repairable>
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
+		<NotInEditor>1</NotInEditor>		
 		<NotBuyable>1</NotBuyable>
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
@@ -52226,14 +52265,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1747</uiIndex>
-		<szItemName>Folding Stock (folded)</szItemName>
+		<szItemName>Folding Stock (folded)</szItemName><!-- pairs with item 1746 -->
 		<szLongItemName>Folding Stock (folded)</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Folding Stock</szBRName>
-		<szBRDesc>Get your weapon up before the other guy when you attach this new stock. Usable with most fixed-stock firearms.</szBRDesc>
+		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things. Built-in variation.</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Built-in variation.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>		
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>915</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -52252,6 +52291,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
@@ -52264,14 +52304,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1748</uiIndex>
-		<szItemName>Retractable Stock (retracted)</szItemName>
+		<szItemName>Retractable Stock (retracted)</szItemName><!-- pairs with item 1009 -->
 		<szLongItemName>Retractable Stock (retracted)</szLongItemName>
 		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Retractable Stock</szBRName>
+		<szBRName>Not for sale</szBRName>
 		<szBRDesc>Get your weapon up before the other guy does, with this new folding stock. Usable with most fixed stock firearms.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>	
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>917</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -52289,6 +52329,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
@@ -52301,14 +52342,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1749</uiIndex>
-		<szItemName>Retractable Stock</szItemName>
+		<szItemName>Retractable Stock</szItemName><!-- pairs with item 1750 -->
 		<szLongItemName>Retractable Stock</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Retractable Stock</szBRName>
-		<szBRDesc>Get your weapon up before the other guy does, with this new retractable stock. Usable with most fixed stock firearms.</szBRDesc>
+		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things. Built-in variation.</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Built-in variation.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>		
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>916</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -52325,6 +52366,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS />
@@ -52333,14 +52375,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1750</uiIndex>
-		<szItemName>Retractable Stock (retracted)</szItemName>
+		<szItemName>Retractable Stock (retracted)</szItemName><!-- pairs with item 1749 -->
 		<szLongItemName>Retractable Stock (retracted)</szLongItemName>
-		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things.</szItemDesc>
-		<szBRName>Retractable Stock</szBRName>
-		<szBRDesc>Get your weapon up before the other guy does, with this new retractable stock. Usable with most fixed stock firearms.</szBRDesc>
+		<szItemDesc>This new stock will allow you to raise your weapon faster, but you may have a slightly harder time hitting things. Built-in variation.</szItemDesc>
+		<szBRName>Not for sale</szBRName>
+		<szBRDesc>Built-in variation.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>32</AttachmentClass>
-		<nasAttachmentClass>32</nasAttachmentClass>
+		<nasAttachmentClass>32</nasAttachmentClass>			
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>917</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -52359,6 +52401,7 @@
 		<Metal>1</Metal>
 		<Sinks>1</Sinks>
 		<NotBuyable>1</NotBuyable>
+		<NotInEditor>1</NotInEditor>		
 		<Attachment>1</Attachment>
 		<BigGunList>1</BigGunList>
 		<STAND_MODIFIERS>
@@ -52414,6 +52457,7 @@
 		<usPrice>400</usPrice>
 		<ubCoolness>4</ubCoolness>
 		<BR_NewInventory>3</BR_NewInventory>
+        <DiseaseSystemExclusive>1</DiseaseSystemExclusive>		
 		<DrugType>19</DrugType>
 		<usPortionSize>5</usPortionSize>
 		<Medical>1</Medical>
